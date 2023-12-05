@@ -1,0 +1,34 @@
+
+body {
+    padding-top: 5px; /* Adjust based on your navbar height */
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+    text-align: 20px;
+}
+
+.footer {
+        background-color: #131516;
+        padding: 20px 0;
+        text-align: center;
+        margin-top: 350px;
+}
+
+
+
+.contact-details {
+    list-style: none; 
+}
+
+.get{
+    color: whitesmoke;
+}
+
+.agri{
+    height: 80px;
+    max-width: 100%;
+    color: whitesmoke;
+    
+}
